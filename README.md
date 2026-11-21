@@ -22,6 +22,7 @@
 
 | Project | Type | Description | Live Demo / Repo |
 | :--- | :--- | :--- | :--- |
+| **🚀 [Starfighter 3D](https://github.com/mujahidul80/starfighter-3d-space-shooter)** | 3D WebGL Game | Fast-paced space combat arcade shooter with asteroid fields, power-ups & dreadnought bosses | [🎮 Play Live](https://mujahidul80.github.io/starfighter-3d-space-shooter/) |
 | **🏗️ [SkyBuild 3D](https://github.com/mujahidul80/skybuild-3d-tower-crane-simulator)** | 3D WebGL Game | Tower Crane & Construction Simulator with realistic pendulum cable physics, laser guides & contracts | [🎮 Play Live](https://mujahidul80.github.io/skybuild-3d-tower-crane-simulator/) |
 | **🏡 [3D Village Portfolio](https://github.com/mujahidul80/3d-low-poly-village-portfolio)** | 3D WebGL Diorama | Interactive Three.js low-poly village with character navigation, day/night cycles & glassmorphic HUD | [🌐 Explore 3D](https://mujahidul80.github.io/3d-low-poly-village-portfolio/) |
 | **⚡ [Ai2Psd_Pro](https://github.com/mujahidul80/Ai2Psd_Pro)** | Design Automation | The ultimate vector-to-layered PSD converter script for Adobe Illustrator with nested group preservation | [📦 Inspect Code](https://github.com/mujahidul80/Ai2Psd_Pro) |
